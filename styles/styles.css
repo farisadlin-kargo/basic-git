@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.main-container__square {
+    background: red;
+    width: 100px;
+    height: 100px;
+}
